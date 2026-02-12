@@ -2,6 +2,6 @@ package commands
 
 import "fmt"
 
-func addTask() {
+func AddTask() {
 	fmt.Println("Add Task")
 }
